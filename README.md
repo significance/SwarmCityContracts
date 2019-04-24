@@ -25,6 +25,12 @@ Manages a hashtag
 The truffle framework is used.
 Contracts are in the contracts folder.
 
+## Install
+
+```git clone git@github.com:swarmcity/SwarmCityContracts.git```
+```cd SwarmCityContracts```
+```npm i```
+
 ## Compiling contracts
 
 ```truffle compile```
